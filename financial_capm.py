@@ -3,7 +3,7 @@ import pandas_datareader as pdr
 import datetime as dt
 import pandas as pd
 
-# The tickets of the business we wanna research
+# The tickets of the business we wanna research.
 tickers = ['AMZN', 'MSFT', 'GOOGL', 'BABA']
 # The start and end date
 start = dt.datetime(2015, 12, 1)
